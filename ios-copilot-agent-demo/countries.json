@@ -1,0 +1,7 @@
+[
+    { "name": "United States", "capital": "Washington, D.C.", "iso_code": "US", "details": "The United States of America is a country primarily located in North America." },
+    { "name": "Canada", "capital": "Ottawa", "iso_code": "CA", "details": "Canada is the second-largest country in the world by total area." },
+    { "name": "United Kingdom", "capital": "London", "iso_code": "GB", "details": "The United Kingdom is a country located off the northwestern coast of mainland Europe." },
+    { "name": "Australia", "capital": "Canberra", "iso_code": "AU", "details": "Australia is a country and continent surrounded by the Indian and Pacific oceans." },
+    { "name": "India", "capital": "New Delhi", "iso_code": "IN", "details": "India is a country in South Asia, known for its diverse culture and history." }
+]
