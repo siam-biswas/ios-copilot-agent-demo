@@ -118,3 +118,9 @@ This guide walks you through a powerful demonstration of **GitHub Copilot's Agen
 - All major classes and methods include Swift-style documentation.
 - Enhances code readability and team collaboration.
 - Developers can navigate and maintain code more easily.
+
+## 🗂 Final Project Demo
+
+https://github.com/user-attachments/assets/217e86e8-2020-4597-aeec-64bee0f9b713
+
+
